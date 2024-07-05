@@ -1,7 +1,7 @@
-# UAED
-The Treasure Beneath Multiple Annotations: An Uncertainty-aware Edge Detector  
-Caixia Zhou, Yaping Huang, Mengyang Pu, Qingji Guan, Li Huang and Haibin Ling  
-CVPR 2023
+# TANet
+Textureness-Aware Neural Network for Edge Detection  
+Xi Yang, Liangfei Cheng, Guowu Yuan, Hao Wu  
+PRCV 2024
 # Preparing Data
 The processed dataset is from LPCB, you can download the used matlab code and processed data from the [Baidu disk](https://pan.baidu.com/s/1F2nAYKsmNxTCI6dmAOGQqg), the code is 3tii.
 The complete processed BSDS training dataset can be downloaded from the [Google disk](https://drive.google.com/file/d/1iB2aUKTjDK0URbvUXbXBKBYAROftRKwX/view?usp=sharing).
